@@ -10,6 +10,6 @@
 
 export default {
 	async fetch(request, env, ctx) {
-		return new Response("Hello Worker!, ana elshedeed vscode");
+		return new Response("Hello Worker!, ana elshedeed vscode tany");
 	},
 };
